@@ -101,11 +101,11 @@ Here are a few standout projects that showcase my ability to build scalable, pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true" alt="Qurban's Trophies" />
   </a>
-</div>
+</div> -->
 
 ---
 
