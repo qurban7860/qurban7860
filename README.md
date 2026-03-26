@@ -82,6 +82,9 @@ Here are a few standout projects that showcase my ability to build scalable, pro
     <td style="border: none;" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
     </td>
+    <td style="border: none;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&hide=html,css" width="100%" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
