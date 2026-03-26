@@ -50,72 +50,63 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 
 ### 📂 Featured Portfolio Projects
 
-Here are a few standout projects that showcase my ability to build scalable, production-ready applications:
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Amazon Services Clone** | Modern e-commerce platform with search, filtering, detailed item pages, reviews, and external API cart integrations. | `MERN`, `Material-UI`, `JavaScript` |
-| **AI Portfolio Builder** | SaaS tool to create personalized portfolios with AI-generated content, real-time preview, authentication & PDF export. | `MERN`, `Firebase`, `Material-UI` |
-| **ICE AGE (ML Dashboard)** | ML model utilization platform analyzing remote sensing data via CNNs wrapped in a user-friendly frontend. | `ReactJS`, `NodeJS`, `Tailwind` |
-
-> 🌐 **Explore more case studies and live demos on my [Official Portfolio](https://qurbanportfolio.vercel.app/)**
+| **Amazon Services Clone** | Modern e-commerce platform with search, filtering, and external API integrations. | `MERN`, `MUI`, `JS` |
+| **AI Portfolio Builder** | SaaS tool with AI-generated content, real-time preview, and PDF export. | `MERN`, `Firebase`, `MUI` |
+| **ICE AGE (ML Dashboard)** | ML platform analyzing remote sensing data via CNNs. | `ReactJS`, `NodeJS`, `Tailwind` |
 
 ---
 
 ### 🛠️ Languages & Tools
-
 <p align="center"> 
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></code>
+  <code><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></code>
+  <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>
+  <code><img src="https://www.figma.com/img/icons/refresh/11/figma-128.png" alt="figma" width="40" height="40"/></code>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### 🏆 Achievement Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 📊 Engineering Impact (All-Time Data)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&custom_title=Full%20Stack%20Development%20Stats" width="49%" alt="Qurban's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide=issues,stars,followers&rank_icon=github&custom_title=Engineering%20Output" width="49%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="49%" alt="Development Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&hide_data_points=false&custom_title=Annual%20Contribution%20Flow" width="98%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=All-Time%20Contribution%20Velocity" width="98%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="49%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=radical&utcOffset=5" width="49%" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=radical&utcOffset=5" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=radical" width="98%" alt="Organization and Repo Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=radical" width="98%" />
 </div>
 
 ---
