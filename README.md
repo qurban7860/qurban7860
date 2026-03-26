@@ -92,20 +92,63 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 ### 📊 GitHub Analytics
 
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="Qurban's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" alt="Qurban's GitHub Streak" width="48%" />
+
+  <!-- Profile Summary (Repos, Commits, PRs, etc.) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=github_dark" width="95%" />
+
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+
+  <!-- Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" />
+
 </div>
+
 <br/>
-<!-- <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true" alt="Qurban's Trophies" />
-  </a>
-</div> -->
+
+<div align="center">
+
+  <!-- Languages + Extra Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qurban7860&theme=github_dark" width="48%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qurban7860&theme=github_dark" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
+
+</div>
+
+<br/>
+
+<!-- Optional: Trophies -->
+<!--
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+-->
 
 ---
 
