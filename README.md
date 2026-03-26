@@ -1,45 +1,27 @@
 <h1 align="center">Hi 👋, I'm Qurban Hanif</h1>
-
 <h3 align="center">Full Stack Software Engineer | React, Next.js & Node.js Expert</h3>
 
 <p align="center">
-
-Turning your ideas into powerful web and mobile solutions with clean code, scalable architecture, and smooth user experiences.
-
+  Turning your ideas into powerful web and mobile solutions with clean code, scalable architecture, and smooth user experiences.
 </p>
 
 <p align="center">
-
-<a href="https://qurbanportfolio.vercel.app/" target="_blank">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0e75b6?style=for-the-badge&logo=vercel" alt="Portfolio" />
-
-</a>
-
-<a href="mailto:qurbanhanif120@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail" alt="Email" />
-
-</a>
-
-<a href="https://linkedin.com/in/qurban015" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-
-</a>
-
-<a href="https://twitter.com/qurbanhanif3" target="_blank">
-
-<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
-
-</a>
-
+  <a href="https://qurbanportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0e75b6?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:qurbanhanif120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/qurban015" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/qurbanhanif3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 ---
@@ -49,11 +31,8 @@ Turning your ideas into powerful web and mobile solutions with clean code, scala
 I am a passionate **Full Stack Developer** with a Bachelor's degree in Software Engineering from Punjab University (PUCIT) and over **3+ years of professional experience**. I specialize in building responsive, high-performance web and mobile applications using the modern JavaScript ecosystem (MERN Stack, Next.js, TypeScript).
 
 - 🚀 **Track Record:** Successfully delivered **50+ projects** for **30+ satisfied international & local clients** with a **100% project success rate**.
-
 - 🔭 **Currently Working On:** Developing enterprise-level web applications using React.js, Next.js, and TypeScript (Project: **DeepMarks**).
-
 - 💡 **Expertise:** Custom Web Development, Real-time Web Apps, RESTful/GraphQL APIs, E-Commerce Solutions, and Cross-Platform Mobile Apps.
-
 - 🤝 **Collaboration:** Open to freelance, remote collaborations, and full-time opportunities globally. Let's discuss your project!
 
 ---
@@ -61,15 +40,10 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 ### 💼 Professional Experience
 
 | Role | Company | Duration | Highlight |
-
 | :--- | :--- | :--- | :--- |
-
 | **Software Engineer** | **TMC** | Jul 2025 - Present | Maintaining enterprise web apps using React.js, Next.js & TS. |
-
 | **Software Engineer (MERN)** | **Terminus Technologies** | Jun 2024 - Jul 2025 | Developed an ERP system (React, MUI, Redux) for a NZ firm. |
-
 | **Frontend Developer** | **COSVM Labs** | Feb 2024 - Jun 2024 | Built responsive, high-engagement UI/UX using React & Tailwind. |
-
 | **Full Stack Developer** | **Upwork** | Aug 2023 - Dec 2024 | Created dynamic MERN dashboards leading to 30% ↑ engagement. |
 
 ---
@@ -79,13 +53,9 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 Here are a few standout projects that showcase my ability to build scalable, production-ready applications:
 
 | Project | Description | Tech Stack |
-
 | :--- | :--- | :--- |
-
 | **Amazon Services Clone** | Modern e-commerce platform with search, filtering, detailed item pages, reviews, and external API cart integrations. | `MERN`, `Material-UI`, `JavaScript` |
-
 | **AI Portfolio Builder** | SaaS tool to create personalized portfolios with AI-generated content, real-time preview, authentication & PDF export. | `MERN`, `Firebase`, `Material-UI` |
-
 | **ICE AGE (ML Dashboard)** | ML model utilization platform analyzing remote sensing data via CNNs wrapped in a user-friendly frontend. | `ReactJS`, `NodeJS`, `Tailwind` |
 
 > 🌐 **Explore more case studies and live demos on my [Official Portfolio](https://qurbanportfolio.vercel.app/)**
@@ -94,50 +64,28 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
-
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/></a>
-
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/></a>
-
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
-
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
-
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
-
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
-
-<a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/></a>
-
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
-
-<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/></a>
-
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
-
-<a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></a>
-
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
-
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
-
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
-
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
-
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
-
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
-
+<p align="center"> 
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="45" height="45"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a>
+  <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
 </p>
 
 ---
@@ -148,22 +96,8 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <div align="center">
 
-<!-- Profile Summary (Repos, Commits, PRs, etc.) -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=github_dark" width="95%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Stats + Streak -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <!-- Profile Summary (Repos, Commits, PRs, etc.) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=github_dark" width="95%" />
 
 </div>
 
@@ -171,12 +105,10 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <div align="center">
 
-<!-- Languages + Extra Stats -->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qurban7860&theme=github_dark" width="48%" />
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qurban7860&theme=github_dark" width="48%" />
+  <!-- Stats + Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" />
 
 </div>
 
@@ -184,9 +116,10 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <div align="center">
 
-<!-- Top Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <!-- Languages + Extra Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qurban7860&theme=github_dark" width="48%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qurban7860&theme=github_dark" width="48%" />
 
 </div>
 
@@ -194,38 +127,35 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <div align="center">
 
-<!-- Contribution Graph -->
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" />
 
 </div>
 
 <br/>
 
 <!-- Optional: Trophies -->
-
 <!--
-
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </div>
-
 -->
 
 ---
 
 <h3 align="center">Let's Connect</h3>
-
 <p align="center">
-
-<a href="https://twitter.com/qurbanhanif3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/qurban015" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-
-<a href="https://fb.com/qurban rajput" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-
-<a href="https://instagram.com/qurbanhanif09" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
+  <a href="https://twitter.com/qurbanhanif3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/qurban015" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/qurban rajput" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://instagram.com/qurbanhanif09" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
