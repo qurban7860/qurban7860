@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Glass Gradient Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=180&section=header&text=Qurban%20Hanif&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 </div>
 
-<h2 align="center">🚀 Full Stack Engineer | SaaS & AI Systems</h2>
+<h3 align="center">🚀 Full Stack Software Engineer | React, Next.js & Node.js Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;High-Performance+SaaS+Platforms;AI+Integration+%26+Automation;Clean+Code+%7C+Real+Impact" />
@@ -22,11 +21,9 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- Subtle Divider -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
-</p> -->
-
----
+</p> 
 
 ### 👨‍💻 About Me
 
