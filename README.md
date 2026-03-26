@@ -15,7 +15,7 @@
   <a href="mailto:qurbanhanif120@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail" alt="Email" /> </a> 
   <a href="https://linkedin.com/in/qurban015" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> 
   <a href="https://twitter.com/qurbanhanif3" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /> </a> 
-\</p> 
+</p> 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- Subtle Divider -->
@@ -97,41 +97,33 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Engineering Metrics
+
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=github_dark" width="95%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=Total+Engineering+Impact" width="49%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Total%20Contributions%20(Private%20%2B%20Org%20Included)" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" />
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qurban7860&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qurban7860&theme=github_dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8" width="49%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="98%" />
 </div>
-<br/>
 
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Annual%20Contribution%20Graph%20(Including%20Org%20%26%20Private)" width="95%" />
-</div>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</div> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="98%" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
