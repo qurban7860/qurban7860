@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=180&section=header&text=Qurban%20Hanif&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Background" />
 </div>
 
-<h3 align="center">🚀 Full Stack Software Engineer | React, Next.js & Node.js Expert</h3>
+<h3 align="center">Full Stack Software Engineer | React, Next.js & Node.js Expert</h3> 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;High-Performance+SaaS+Platforms;AI+Integration+%26+Automation;Clean+Code+%7C+Real+Impact" alt="Typing SVG" />
@@ -26,7 +26,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full Stack Developer** with a Bachelor's degree in Software Engineering from Punjab University (PUCIT) and over **3+ years of professional experience**. I specialize in building responsive, high-performance web and mobile applications using the modern JavaScript ecosystem (MERN Stack, Next.js, TypeScript).
+Full Stack Engineer specializing in **building scalable SaaS platforms and high-performance applications**. With **3+ years of experience**, I deliver production-ready solutions using **MERN, Next.js, and TypeScript**, focused on speed, reliability, and business growth.
 
 - 🚀 **Track Record:** Delivered **50+ projects** for **30+ satisfied global clients** with a **100% success rate**.
 - 🔭 **Currently Building:** Enterprise-level web applications using React.js, Next.js, and TypeScript (Project: **DeepMarks**).
@@ -37,8 +37,6 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 
 ### 🛠️ Tech Stack & Tools
 
-*Hover over the icons to see the smooth, ripple-free animation.*
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,mongodb,postgres,graphql,tailwind,sass,bootstrap,redux,firebase,aws,docker,git,linux,figma,postman&perline=10&theme=dark" alt="Tech Stack" />
@@ -47,40 +45,34 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer" width="100%"/>
 
-### 💼 Professional Experience & Featured Projects
+### 💼 Professional Experience
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Work Experience</h4>
-      <ul>
-        <li><b>Software Engineer</b> @ TMC <br/><i>(Jul 2025 - Present)</i></li>
-        <li><b>Software Engineer (MERN)</b> @ Terminus Technologies <br/><i>(Jun 2024 - Jul 2025)</i></li>
-        <li><b>Frontend Developer</b> @ COSVM Labs <br/><i>(Feb 2024 - Jun 2024)</i></li>
-        <li><b>Full Stack Developer</b> @ Upwork <br/><i>(Aug 2023 - Dec 2024)</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📂 Top Projects</h4>
-      <ul>
-        <li>🛍️ <b>Amazon Services Clone:</b> E-commerce platform with external API cart integrations (MERN).</li>
-        <li>🤖 <b>AI Portfolio Builder:</b> SaaS tool for personalized portfolios with AI content & PDF export (Firebase, React).</li>
-        <li>🌍 <b>ICE AGE (ML Dashboard):</b> ML model utilization platform analyzing remote sensing data via CNNs.</li>
-      </ul>
-      <blockquote>🌐 <a href="https://qurbanportfolio.vercel.app/">View Live Portfolio</a></blockquote>
-    </td>
-  </tr>
-</table>
+| Role | Company | Duration | Highlight |
+| :--- | :--- | :--- | :--- |
+| *Software Engineer* | *TMC* | Jul 2025 - Present | Maintaining enterprise web apps using React.js, Next.js & TS. |
+| *Software Engineer (MERN)* | *Terminus Technologies* | Jun 2024 - Jul 2025 | Developed an ERP system (React, MUI, Redux) for a NZ firm. |
+| *Frontend Developer* | *COSVM Labs* | Feb 2024 - Jun 2024 | Built responsive, high-engagement UI/UX using React & Tailwind. |
+| *Full Stack Developer* | *Upwork* | Aug 2023 - Dec 2024 | Created dynamic MERN dashboards leading to 30% ↑ engagement. |
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
+
+### 📂 Featured Portfolio Projects
+
+Here are a few standout projects that showcase my ability to build scalable, production-ready applications:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| *Amazon Services Clone* | Modern e-commerce platform with search, filtering, detailed item pages, reviews, and external API cart integrations. | MERN, Material-UI, JavaScript |
+| *AI Portfolio Builder* | SaaS tool to create personalized portfolios with AI-generated content, real-time preview, authentication & PDF export. | MERN, Firebase, Material-UI |
+| *ICE AGE (ML Dashboard)* | ML model utilization platform analyzing remote sensing data via CNNs wrapped in a user-friendly frontend. | ReactJS, NodeJS, Tailwind |
+
+> 🌐 **Explore more case studies and live demos on my [Official Portfolio](https://qurbanportfolio.vercel.app/)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer" width="100%"/>
 
-### 📊 GitHub Analytics & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
+### 📊 GitHub Analytics 
 
 <table align="center" style="border: none;">
   <tr style="border: none;">
