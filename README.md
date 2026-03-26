@@ -74,16 +74,16 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 ### 📊 GitHub Analytics 
 
-<table align="center" style="border: none;">
+<table align="center" style="border: none">
   <tr style="border: none;">
     <td style="border: none;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=Total+Engineering+Impact" alt="Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=Github+Stats" alt="Stats" />
     </td>
     <td style="border: none;" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" alt="Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=151B23" alt="Streak" />
     </td>
     <td style="border: none;" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&hide=html,css" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
