@@ -124,14 +124,14 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 </div>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Annual%20Contribution%20Graph%20(Including%20Org%20%26%20Private)" width="95%" />
 </div>
 <br/>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
