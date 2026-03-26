@@ -93,21 +93,29 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=My%20All-Time%20GitHub%20Stats" width="48%" alt="GitHub All-Time Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&custom_title=Full%20Stack%20Development%20Stats" width="49%" alt="Qurban's GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="49%" alt="Development Streak" />
 </div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&custom_title=Commit%20Activity%20(Dynamic)" width="98%" alt="Dynamic Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&hide_data_points=false&custom_title=Annual%20Contribution%20Flow" width="98%" alt="Contribution Graph" />
 </div>
+
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=radical" width="48%" alt="Profile Summary Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="49%" alt="Top Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=radical&utcOffset=5" width="49%" alt="Productive Time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurban7860&theme=radical" width="98%" alt="Organization and Repo Breakdown" />
 </div>
 
 ---
