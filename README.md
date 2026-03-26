@@ -11,38 +11,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+Scalable+Web+Applications;High-Performance+SaaS+Platforms;AI+Integration+%26+Automation;Clean+Code+%7C+Real+Impact" />
 </p>
 
-<p align="center" style="max-width: 650px;">
-  Designing and developing <b>high-performance web & mobile applications</b> with scalable architecture, clean code, and exceptional user experience.
-</p>
+<p align="center"> Turning your ideas into powerful web and mobile solutions with clean code, scalable architecture, and smooth user experiences. </p> 
 
-<br/>
-
-<!-- Glass Buttons -->
-<p align="center">
-
-<a href="https://qurbanportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:qurbanhanif120@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://linkedin.com/in/qurban015">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<a href="https://twitter.com/qurbanhanif3">
-  <img src="https://img.shields.io/badge/🐦_Twitter-Follow-0D1117?style=for-the-badge&logo=twitter&logoColor=1DA1F2" />
-</a>
-
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
+<p align="center"> 
+  <a href="https://qurbanportfolio.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-0e75b6?style=for-the-badge&logo=vercel" alt="Portfolio" /> </a> 
+  <a href="mailto:qurbanhanif120@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail" alt="Email" /> </a> 
+  <a href="https://linkedin.com/in/qurban015" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> 
+  <a href="https://twitter.com/qurbanhanif3" target="_blank"> <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /> </a> 
+\</p> 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- Subtle Divider -->
 <!-- <p align="center">
