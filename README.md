@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0e75b6&height=180&section=header&text=Qurban%20Hanif&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
 </div>
 
 <h3 align="center">🚀 Full Stack Software Engineer | React, Next.js & Node.js Expert</h3>
@@ -34,7 +32,9 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 - 💡 **Expertise:** Custom Web Development, Real-time Web Apps, RESTful/GraphQL APIs, E-Commerce Solutions, and Cross-Platform Mobile Apps.
 - 🤝 **Collaboration:** Open to freelance, remote collaborations, and full-time opportunities globally. Let's discuss your project!
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
 
 ### 💼 Professional Experience
 
@@ -45,7 +45,9 @@ I am a passionate **Full Stack Developer** with a Bachelor's degree in Software 
 | **Frontend Developer** | **COSVM Labs** | Feb 2024 - Jun 2024 | Built responsive, high-engagement UI/UX using React & Tailwind. |
 | **Full Stack Developer** | **Upwork** | Aug 2023 - Dec 2024 | Created dynamic MERN dashboards leading to 30% ↑ engagement. |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
 
 ### 📂 Featured Portfolio Projects
 
@@ -59,7 +61,9 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 > 🌐 **Explore more case studies and live demos on my [Official Portfolio](https://qurbanportfolio.vercel.app/)**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
 
 ### 🛠️ Languages & Tools
 
@@ -87,7 +91,9 @@ Here are a few standout projects that showcase my ability to build scalable, pro
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
 
 ### 📊 GitHub Analytics
 
@@ -100,55 +106,36 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 <br/>
 
 <div align="center">
-
-  <!-- Stats (Private + All Commits) + Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Total%20Contributions%20(Private%20%2B%20Org%20Included)" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Total%20Contributions%20(Private%20%2B%20Org%20Included)" width="48%" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=0D1117" width="48%" />
-
 </div>
-
 <br/>
 
 <div align="center">
-
-  <!-- Repo + Language Insights -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qurban7860&theme=github_dark" width="48%" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qurban7860&theme=github_dark" width="48%" />
-
 </div>
 
 <br/>
 
 <div align="center">
-
-  <!-- Top Languages + Productive Time -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="48%" />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="48%" />
-
 </div>
-
 <br/>
 
 <div align="center">
-
-  <!-- Contribution Graph (Yearly + Org + Private Reflected) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Annual%20Contribution%20Graph%20(Including%20Org%20%26%20Private)" width="95%" />
-
 </div>
-
 <br/>
 
 <div align="center">
-
-  <!-- Optional: Trophies (Top Dev Style) -->
   <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer"/>
+</p>
 
 <h3 align="center">Let's Connect</h3>
 <p align="center">
