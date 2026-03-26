@@ -110,19 +110,13 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8" width="49%" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="49%" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="49%" /> -->
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurban7860&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qurban7860&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="98%" />
 </div>
 
 <p align="center">
