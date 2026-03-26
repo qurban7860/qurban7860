@@ -97,8 +97,6 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Engineering Metrics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=Total+Engineering+Impact" width="49%" />
   
@@ -109,8 +107,6 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&langs_count=8" width="49%" />
-  
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qurban7860&theme=github_dark&utcOffset=5" width="49%" /> -->
 </div>
 
 <br/>
