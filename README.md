@@ -76,9 +76,9 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 <table align="center" style="border: none">
   <tr style="border: none;">
-    <td style="border: none;" align="center">
+    <!-- <td style="border: none;" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=Github+Stats" alt="Stats" />
-    </td>
+    </td> -->
     <td style="border: none;" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurban7860&theme=radical&hide_border=true&background=151B23" alt="Streak" />
     </td>
