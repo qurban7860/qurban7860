@@ -64,7 +64,7 @@ Here are a few standout projects that showcase my ability to build scalable, pro
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| *Amazon Services Clone* | Modern e-commerce platform with search, filtering, detailed item pages, reviews, and external API cart integrations. | MERN, Material-UI, JavaScript |
+| *Ecommerce Services* | Modern e-commerce platform with search, filtering, detailed item pages, reviews, and external API cart integrations. | MERN, Material-UI, JavaScript |
 | *AI Portfolio Builder* | SaaS tool to create personalized portfolios with AI-generated content, real-time preview, authentication & PDF export. | MERN, Firebase, Material-UI |
 | *ICE AGE (ML Dashboard)* | ML model utilization platform analyzing remote sensing data via CNNs wrapped in a user-friendly frontend. | ReactJS, NodeJS, Tailwind |
 
