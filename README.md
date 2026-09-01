@@ -114,6 +114,7 @@ Production CRM where each organization operates inside its own isolated tenant, 
 - PostgreSQL + Prisma data layer with typed end-to-end contracts
 
 **Stack:** `TypeScript` `Next.js` `NestJS` `PostgreSQL` `Prisma` `Stripe` `WebSockets`
+
 **Live:** [nest-js-angular-enterprise-crm-saas](https://nest-js-angular-enterprise-crm-saa.vercel.app/)
 
 <!-- CONFIRM: exact stack, and whether Stripe/WebSockets belong here or to the AI SaaS platform. Add Live + Code links. -->
