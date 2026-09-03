@@ -121,6 +121,18 @@ Production CRM where each organization operates inside its own isolated tenant, 
 
 ---
 
+#### 🎨 3D Developer Portfolio
+
+Interactive 3D portfolio presenting my work, case studies and live demos.
+
+**Stack:** `React` `Three.js` `Tailwind CSS`
+
+**Live:** [qurbanportfolio.vercel.app](https://qurbanportfolio.vercel.app/)
+
+<!-- CONFIRM: is the live portfolio the 3D version, and is Three.js / React Three Fiber correct? Add the repo link. -->
+
+---
+
 #### 🤖 AI SaaS Platform
 
 AI-powered SaaS product whose LLM features are grounded in domain data through a retrieval-augmented generation pipeline.
@@ -169,16 +181,6 @@ ERP and analytics platform built at Terminus Technologies for a global engineeri
 <!-- CONFIRM: backend/database details. Client code is presumably private, so no repo link is included. -->
 
 ---
-
-#### 🎨 3D Developer Portfolio
-
-Interactive 3D portfolio presenting my work, case studies and live demos.
-
-**Stack:** `React` `Three.js` `Tailwind CSS`
-
-**Live:** [qurbanportfolio.vercel.app](https://qurbanportfolio.vercel.app/)
-
-<!-- CONFIRM: is the live portfolio the 3D version, and is Three.js / React Three Fiber correct? Add the repo link. -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer" width="100%" alt="" />
 
