@@ -145,7 +145,7 @@ AI-powered SaaS product whose LLM features are grounded in domain data through a
 
 **Stack:** `TypeScript` `Next.js` `Node.js` `PostgreSQL` `OpenAI API` `Vector DB`
 
-**Live:** [ai-saas-platform](https://ai-saas-i8u8-dusky.vercel.app/)
+**Live:** [ChatBot-AISaaS-Platform](https://ai-saas-i8u8-dusky.vercel.app/)
 
 <!-- CONFIRM: product name, backend framework, which vector database, and whether response streaming is implemented. Add Live + Code links. -->
 
