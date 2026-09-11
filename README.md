@@ -162,6 +162,7 @@ SaaS that helps users generate tailored, ATS-friendly resumes with AI assistance
 
 **Stack:** `TypeScript` `React` `Node.js` `MongoDB`
 
+**Live:** [AI-Resume-Builder-SaaS](https://resume-builder-saas-alpha.vercel.app/)
 <!-- CONFIRM: is this the evolution of the earlier "AI Portfolio Builder" (MERN + Firebase)? Confirm final product name, database, and feature list. Add Live + Code links. -->
 
 ---
