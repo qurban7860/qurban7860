@@ -125,7 +125,7 @@ Production CRM where each organization operates inside its own isolated tenant, 
 
 Interactive 3D portfolio presenting my work, case studies and live demos.
 
-**Stack:** `React` `Three.js` `Tailwind CSS`
+**Stack:** `React` `Three.js` `R3F` `Sqlite` `Tailwind CSS`
 
 **Live:** [qurbanportfolio.vercel.app](https://qurbanportfolio.vercel.app/)
 
