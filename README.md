@@ -22,7 +22,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=qurban7860&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> -->
+   ![Profile views](https://komarev.com/ghpvc/?username=qurban7860&label=Profile+views&color=0e75b6&style=flat)
   <img src="https://img.shields.io/badge/Experience-3%2B_Years-0e75b6?style=flat" alt="3+ years of experience" />
   <img src="https://img.shields.io/badge/Open_to-Full--Time_%7C_Contract_%7C_Freelance-2ea043?style=flat" alt="Open to opportunities" />
 </div>
