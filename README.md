@@ -226,7 +226,7 @@ How I approach the parts of a system that decide whether it survives production:
 ### 📊 GitHub Analytics -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" height="170" alt="GitHub statistics" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=qurban7860&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&custom_title=GitHub+Stats" height="170" alt="GitHub statistics" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qurban7860&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="170" alt="Most used languages" />
 </div>
 
