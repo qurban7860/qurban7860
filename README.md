@@ -202,14 +202,12 @@ How I approach the parts of a system that decide whether it survives production:
 
 ### 💼 Professional Experience
 
-| Role | Company | Duration | Scope & Impact |
-| :--- | :--- | :--- | :--- |
-| **Software Engineer** | **TMC** | Jul 2025 – Present | Enterprise web applications with React.js, Next.js & TypeScript |
-| **Software Engineer** | **Terminus Technologies** | Jun 2024 – Jul 2025 | ERP platform for a global engineering firm — 40% faster data retrieval |
-| **Frontend Developer** | **COSVM Labs** | Feb 2024 – Jun 2024 | Responsive product UI with React & Tailwind CSS |
-| **Full Stack Developer** *(Freelance)* | **Upwork** | Aug 2023 – Dec 2024 | Full-stack MERN dashboards for international clients |
-
-<!-- CONFIRM: dates against your latest resume — the Upwork period overlaps two roles (normal for freelancing, but verify the end date). Reinstate the "30% engagement increase" metric only if defensible. -->
+| Company | Period | Focus |
+| :--- | :--- | :--- |
+| **TallyMarks Consulting (TMC)** | **Nov 2025 – Present** | Frontend engineering and RAG implementation using PostgreSQL/pgvector and OpenAI embeddings |
+| **Strategist Hub** | **Jul 2025 – Nov 2025** | AI meditation desktop app with real-time voice interaction and persistent chat |
+| **Terminus Technologies** | **May 2024 – Jul 2025** | Howick ERP development for a global engineering firm operating in 75+ countries |
+| **Freelance (Contract)** | **Aug 2023 – Present** | Full-stack software development across contract projects |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:0D1117&height=2&section=footer" width="100%" alt="" />
 
